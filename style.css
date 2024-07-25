@@ -1,0 +1,45 @@
+
+  body {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;  
+}
+.jumbotron {
+    background: url('img/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 1rem;
+}
+
+footer {
+    background-color: #f8f9fa;
+}
+.hero {
+    background: url('https://via.placeholder.com/1500x500') no-repeat center center;
+    background-size: cover;
+    color: white;
+}
+
+section {
+    padding: 60px 0;
+}
+
+.card {
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
